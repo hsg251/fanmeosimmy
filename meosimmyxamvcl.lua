@@ -1,5 +1,5 @@
---[[This file was protected with MoonSec V3
-]]
+([[This file was protected with MoonSec V3
+]])
   
 function Attack1Function()
 	local ac = CombatFrameworkR.activeController
